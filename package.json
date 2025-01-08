@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@lambdatest/selenium-driver": "^1.0.2",
+    "@lambdatest/smartui-cli": "^4.0.16",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "name": "sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sdk.js",
+  "scripts": {
+    "smartui-local": "smartui exec node sdkLocal.js",
+    "smartui-cloud": "smartui exec node sdkCloud.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

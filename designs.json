@@ -1,0 +1,24 @@
+{
+  "web": {
+    "browsers": ["chrome", "firefox", "safari", "edge"]
+  },
+  "figma": {
+    "depth": 2,
+    "configs": [
+      {
+        "figma_file_token": "CVNfXpfUXFFmrm9AiGwfT4",
+        "figma_ids": [
+          "1-199",
+          "149-350",
+          "157-4809",
+          "157-4633",
+          "149-459"
+        ],
+          "screenshot_names":["Landing", "Catering","Flight-Planning", "Fuel", "Handling"]
+    
+      }
+    ] 
+  }
+}
+
+
