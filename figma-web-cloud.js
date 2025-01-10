@@ -15,8 +15,8 @@ let capabilities = {
     accessKey: KEY,
     project: "<PROJECT_NAME>",
     w3c: true,
-    name: "<TEST_NAME>", // name of the test
-    build: "<BUILD_NAME", // name of the build
+    name: "SmartUI Web", // name of the test
+    build: "SmartUI Figma Sample", // name of the build
     visual: true,
   },
 };
