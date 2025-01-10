@@ -53,7 +53,7 @@ set FIGMA_TOKEN="123456#1234abcd-****-****-****-************"
 
 4. Create your figma baseline 
 ```bash
-npx smartui upload-figma-web designs.json --buildName=FigmaBaseline2  
+npx smartui upload-figma-web designs.json --buildName=FigmaBaseline1  
 ```
 5. Execute your functional test script (Selenium Nodejs in this sample)
 ```
