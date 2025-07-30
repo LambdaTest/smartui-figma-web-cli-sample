@@ -1,0 +1,28 @@
+{
+  "mobile": [
+      {
+          "name": "Galaxy S23",
+          "platform": [
+            "Android 14"
+          ],
+          "width": 345,
+          "height": 600,
+          "orientation": "portrait"
+        }
+  ],
+  "figma": {
+    "depth": 2,
+    "configs": [
+      {
+        "figma_file_token": "bKZzrVniHqvJfbgvNQcvVV",
+        "figma_ids": [
+          "0-495"
+        ],
+        "screenshot_names": [
+          "realDeviceScreenshot"
+        ]
+      }
+    ]
+  },
+  "smartIgnore": false
+}
